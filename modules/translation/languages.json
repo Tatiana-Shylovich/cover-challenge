@@ -1,0 +1,58 @@
+{
+  "en": {
+    "id": "en",
+    "name": "english",
+    "logo": {
+      "element1": "cover",
+      "element2": "challenge"
+    },
+    "quiz": {
+      "question": "Question: ",
+      "score": "Score: ",
+      "cover": "Cover version",
+      "instructions": "Choose a song!"
+    },
+    "info": {
+      "heading": "Welcome to Cover challenge!",
+      "listItem1": "Listen to cover versions of famous songs or soundtracks and guess the original.",
+      "listItem2": "The correct answer on the first attempt earns you 5 points. Each next attempt earns you 1 point less.",
+      "listItem3": "The last, sixth attempt, earns you 0 points."
+    },
+    "result": {
+      "part1": "You scored ",
+      "part2": " points out of ",
+      "part3": "!"
+    },
+    "footer": {
+      "year": "2022"
+    }
+  },
+  "ru": {
+    "id": "ru",
+    "name": "русский",
+    "logo": {
+      "element1": "cover",
+      "element2": "challenge"
+    },
+    "quiz": {
+      "question": "Вопрос:",
+      "score": "Счет: ",
+      "cover": "Кавер-версия",
+      "instructions": "Выберите песню!"
+    },
+    "info": {
+      "heading": "Добро пожаловать в Cover challenge!",
+      "listItem1": "Прослушайте кавер-версии известных песен и саундтреков и угадайте оригинал.",
+      "listItem2": "Правильный ответ с первой попытки приносит 5 баллов. Каждая следующая попытка уменьшает количество баллов на 1.",
+      "listItem3": "Последняя, шестая попытка, приносит 0 баллов."
+    },
+    "result": {
+      "part1": "Вы набрали ",
+      "part2": " баллов из ",
+      "part3": "!"
+    },
+    "footer": {
+      "year": "2022"
+    }
+  }
+}

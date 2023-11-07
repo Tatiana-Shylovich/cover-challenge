@@ -1,0 +1,247 @@
+[
+  [
+    {
+      "cover": "./assets/audio/pokerface/marcela-mangabeira-poker-face.mp3"
+    },
+    {
+      "id": "1",
+      "name": "Lady Gaga - Poker Face",
+      "audio": "./assets/audio/pokerface/lady-gaga-poker-face.mp3"
+    },
+    {
+      "id": "2",
+      "name": "Lady Gaga - Alejandro",
+      "audio": "./assets/audio/pokerface/options/lady_gaga_-_alejandro_original_(z2.fm).mp3"
+    },
+    {
+      "id": "3",
+      "name": "Lady Gaga - Applause",
+      "audio": "./assets/audio/pokerface/options/lady_gaga_-_applause_(z2.fm).mp3"
+    },
+    { 
+      "id": "4",
+      "name": "Lady Gaga - Bad Romance",
+      "audio": "./assets/audio/pokerface/options/lady_gaga_-_bad_romance_original_(z2.fm).mp3"
+    },
+    {
+      "id": "5",
+      "name": "Lady Gaga - Telephone",
+      "audio": "./assets/audio/pokerface/options/lady_gaga__beyonce_-_telephone_(z2.fm).mp3"
+    },
+    {
+      "id": "6",
+      "name": "Lady Gaga - Just Dance",
+      "audio": "./assets/audio/pokerface/options/lady_gaga_-_just_dance_original_(z2.fm).mp3"
+    }
+  ],
+  [
+    {
+      "cover": "./assets/audio/blankspace/soul-explosion-blank-space.mp3"
+    },
+    {
+      "id": "1",
+      "name": "Taylor Swift - Blank Space",
+      "audio": "./assets/audio/blankspace/taylor-swift-blank-space.mp3"
+    },
+    {
+      "id": "2",
+      "name": "Taylor Swift - Bad Blood",
+      "audio": "./assets/audio/blankspace/options/taylor-swift-bad-blood.mp3"
+    },
+    {
+      "id": "3",
+      "name": "Taylor Swift - I Don't Wanna Live Forever",
+      "audio": "./assets/audio/blankspace/options/taylor-swift-i-dont-wanna-live-forever.mp3"
+    },
+    { 
+      "id": "4",
+      "name": "Taylor Swift - I Knew You Were Trouble",
+      "audio": "./assets/audio/blankspace/options/taylor-swift-i-knew-you-were-trouble.mp3"
+    },
+    {
+      "id": "5",
+      "name": "Taylor Swift - My Tears Ricochet",
+      "audio": "./assets/audio/blankspace/options/taylor-swift-my-tears-ricochet.mp3"
+    },
+    {
+      "id": "6",
+      "name": "Taylor Swift - Shake It Off",
+      "audio": "./assets/audio/blankspace/options/taylor-swift-shake-it-off.mp3"
+    }
+  ],
+  [
+    {
+      "cover": "./assets/audio/lgis/richard-cheese-lets-get-it-started.mp3"
+    },
+    {
+      "id": "1",
+      "name": "Black Eyed Peas - Let's Get It Started",
+      "audio": "./assets/audio/lgis/black-eyed-peas-lets-get-it-started.mp3"
+    },
+    {
+      "id": "2",
+      "name": "Black Eyed Peas - Pump It",
+      "audio": "./assets/audio/lgis/options/the-black-eyed-peas-pump-it.mp3"
+    },
+    {
+      "id": "3",
+      "name": "Black Eyed Peas - Meet Me Halfway",
+      "audio": "./assets/audio/lgis/options/the-black-eyed-peas-meet-me-halfway.mp3"
+    },
+    { 
+      "id": "4",
+      "name": "Black Eyed Peas - Just Can't Get Enough",
+      "audio": "./assets/audio/lgis/options/the-black-eyed-peas-just-cant-get-enough.mp3"
+    },
+    {
+      "id": "5",
+      "name": "Black Eyed Peas - Don't Phunk With My Heart",
+      "audio": "./assets/audio/lgis/options/the-black-eyed-peas-dont-phunk-with-my-heart.mp3"
+    },
+    {
+      "id": "6",
+      "name": "Black Eyed Peas - Don't Lie",
+      "audio": "./assets/audio/lgis/options/the-black-eyed-peas-dont-lie.mp3"
+    }
+  ],
+  [
+    {
+      "cover": "./assets/audio/candyshop/brand-new-rockers-candy-shop.mp3"
+    },
+    {
+      "id": "1",
+      "name": "50 Cent - Candy Shop",
+      "audio": "./assets/audio/candyshop/50-cent-candy-shop.mp3"
+    },
+    {
+      "id": "2",
+      "name": "Akon - Lonely",
+      "audio": "./assets/audio/candyshop/options/akon_-_lonely_(z2.fm).mp3"
+    },
+    {
+      "id": "3",
+      "name": "Jason Derulo ft. Snoop Dogg - Wiggle",
+      "audio": "./assets/audio/candyshop/options/jason_derulo_feat_snoop_dogg_-_wiggle_(z2.fm).mp3"
+    },
+    { 
+      "id": "4",
+      "name": "Pitbull - Calle Ocho",
+      "audio": "./assets/audio/candyshop/options/pitbull_-_i_know_you_want_me_calle_ocho_(z2.fm).mp3"
+    },
+    {
+      "id": "5",
+      "name": "Kanye West - Flashing Lights",
+      "audio": "./assets/audio/candyshop/options/kanye_west_-_flashing_light_(z2.fm).mp3"
+    },
+    {
+      "id": "6",
+      "name": "Eminem - Lose Yourself",
+      "audio": "./assets/audio/candyshop/options/eminem_-_lose_yourself_(z2.fm).mp3"
+    }
+  ],
+  [
+    {
+      "cover": "./assets/audio/its-my-life/selo-i-ljudi-its-my-life.mp3"
+    },
+    {
+      "id": "1",
+      "name": "Bon Jovi - It's My Life",
+      "audio": "./assets/audio/its-my-life/bon-jovi-its-my-life.mp3"
+    },
+    {
+      "id": "2",
+      "name": "Green Day - American Idiot",
+      "audio": "./assets/audio/its-my-life/options/green_day__american_idiot_-_american_idiot_(z2.fm).mp3"
+    },
+    {
+      "id": "3",
+      "name": "Green Day - Holiday",
+      "audio": "./assets/audio/its-my-life/options/green_day_-_green_day_-_holiday_(z2.fm).mp3"
+    },
+    { 
+      "id": "4",
+      "name": "Bon Jovi - Have a nice day",
+      "audio": "./assets/audio/its-my-life/options/bon_jovi_-_bon_jovi_-_have_a_nice_day_(z2.fm).mp3"
+    },
+    {
+      "id": "5",
+      "name": "The Offspring - Pretty Fly",
+      "audio": "./assets/audio/its-my-life/options/offspring_-_pretty_fly_(z2.fm).mp3"
+    },
+    {
+      "id": "6",
+      "name": "U2 - Elevation",
+      "audio": "./assets/audio/its-my-life/options/u2_-_elevation_(z2.fm).mp3"
+    }
+  ],
+  [
+    {
+      "cover": "./assets/audio/numb/cornbread-red-numb-linkin-park.mp3"
+    },
+    {
+      "id": "1",
+      "name": "Linkin Park - Numb",
+      "audio": "./assets/audio/numb/linkin-park-numb.mp3"
+    },
+    {
+      "id": "2",
+      "name": "Linkin Park - Somewhere I belong",
+      "audio": "./assets/audio/numb/options/linkin_park_linkin_park_-_somewhere_i_belong_(z2.fm).mp3"
+    },
+    {
+      "id": "3",
+      "name": "Linkin Park - Leave out all the rest",
+      "audio": "./assets/audio/numb/options/linkin_park_linkin_park_-_leave_out_all_the_rest_(z2.fm).mp3"
+    },
+    { 
+      "id": "4",
+      "name": "Linkin Park - In the end",
+      "audio": "./assets/audio/numb/options/linkin_park_linkin_park_-_in__the_end_(z2.fm).mp3"
+    },
+    {
+      "id": "5",
+      "name": "Linkin Park - Burn it down",
+      "audio": "./assets/audio/numb/options/linkin_park_linkin_park_-_burn_it_down_(z2.fm).mp3"
+    },
+    {
+      "id": "6",
+      "name": "Linkin Park - Breaking the habit",
+      "audio": "./assets/audio/numb/options/linkin_park_-_breaking_the_habit_(z2.fm).mp3"
+    }
+  ],
+  [
+    {
+      "cover": "./assets/audio/mortal-kombat/mortal-kombat-main-theme-orchestra.mp3"
+    },
+    {
+      "id": "1",
+      "name": "Mortal Kombat",
+      "audio": "./assets/audio/mortal-kombat/mortal-kombat-1995.mp3"
+    },
+    {
+      "id": "2",
+      "name": "Warcraft",
+      "audio": "./assets/audio/mortal-kombat/options/warcraft-2016-ramin-djawadi.mp3"
+    },
+    {
+      "id": "3",
+      "name": "Prince of Persia",
+      "audio": "./assets/audio/mortal-kombat/options/prince_of_persia_-_the_prince_of_persia_harry_gregson-williams.mp3"
+    },
+    { 
+      "id": "4",
+      "name": "Max Payne",
+      "audio": "./assets/audio/mortal-kombat/options/marco-beltrami-max-payne-main.mp3"
+    },
+    {
+      "id": "5",
+      "name": "Doom",
+      "audio": "./assets/audio/mortal-kombat/options/clint-mansell-doom.mp3"
+    },
+    {
+      "id": "6",
+      "name": "Silent Hill",
+      "audio": "./assets/audio/mortal-kombat/options/akira-yamaoka-silent-hill.mp3"
+    }
+  ]
+]

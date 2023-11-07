@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="./assets/favicon/disco-ball.ico">
+  <title>Quiz</title>
+</head>
+<body class="body">
+  <div class="wrapper">
+    <header class="header">
+      <h1 class="logo">
+        <span class="logo__elem1"></span>
+        <span class="logo__elem2"></span>
+      </h1>
+      <nav class="menu">
+        <div class="menu-container">
+          <div class="menu-navigation">
+            <div class="menu-item menu-item_active menu__about"></div>
+            <div class="menu-item menu__quiz"></div>
+            <div class="menu-item menu__gallery"></div>
+            <div class="menu-item menu__info"></div>
+          </div>
+          <div class="menu-lang">
+            <ul class="menu-lang-options"></ul>
+          </div>
+        </div>
+      </nav>
+      <div class="burger-icon">
+        <div class="burger-icon__line"></div>
+        <div class="burger-icon__line"></div>
+        <div class="burger-icon__line"></div>
+      </div>
+    </header>
+    <main class="main">
+      <div class="main-body">
+        <section class="about">
+          <div class="ball">
+            <div class="ball__content">
+              <img class="ball__img" src="assets/decor/disco-ball.png" alt="disco ball">
+            </div>
+          </div>
+          <div class="about-body">
+            <div class="decor1">
+              <img class="decor1__img" src="assets/decor/lady1.png" alt="disco lady">
+            </div>
+            <div class="decor2">
+              <img class="decor2__img" src="assets/decor/guy2.png" alt="disco guy">
+            </div>
+            <div class="decor3">
+              <img class="decor3__img" src="assets/decor/lady2.png" alt="disco lady">
+            </div>
+            <div class="decor4">
+              <img class="decor4__img" src="assets/decor/lady3.png" alt="disco guy">
+            </div>
+            <div class="decor5">
+              <img class="decor5__img" src="assets/decor/guy1.png" alt="disco lady">
+            </div>
+          </div>
+        </section>
+        <section class="app-sections quiz">
+          <div class="quiz-body">
+            <div class="game">
+              <div class="game-state">
+                <div class="questions-number">
+                  <div class="questions-number__text1"></div>
+                  <span class="questions-number__current"></span>
+                  <span class="questions-number__text2"></span>
+                  <span class="questions-number__total"></span>
+                </div>
+                <div class="score">
+                  <span class="score__text"></span>
+                  <span class="score__value"></span>
+                </div>
+              </div>
+              <div class="question">
+                <div class="question-img">
+                  <div class="question-img__cover">
+                    <div class="question-img__img"></div>
+                  </div>
+                  <img class="question-img__disc" src="assets/decor/disc-gold.png" alt="vinyl disc">
+                </div>
+                <div class="question-player">
+                  <div class="question-player-song"></div>
+                    <div class="question-player__controls-sound">
+                      <div class="question-player__controls">
+                        <div class="question-player__play">
+                          <img class="question-player__img-play" src="assets/icons/play.png" alt="play">
+                          <img class="question-player__img-pause" src="assets/icons/pause.png" alt="pause">
+                        </div>
+                        <div class="question-player__progress-panel">
+                          <div class="question-player__progress-bar not-clickable">
+                            <div class="question-player__progress"></div>
+                          </div>
+                          <div class="question-player__timing">
+                            <span class="question-player__current"></span>
+                            <span class="question-player__length"></span>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="question-player__volume-panel">
+                        <div class="question-player__volume">
+                          <img class="question-player__img-on" src="assets/icons/volumeon.png" alt="volume on">
+                          <img class="question-player__img-off" src="assets/icons/volumeoff.png" alt="volume off">
+                        </div>
+                        <div class="question-player__volume-bar">
+                          <div class="question-player__volume-line"></div>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+              </div>
+              <div class="answers">
+                <div class="options not-clickable">
+                  <ul class="options-list"></ul>
+                </div>
+                <div class="music not-clickable">
+                  <div class="music-img">
+                    <div class="music-img__cover">
+                      <div class="music-img__img"></div>
+                    </div>
+                  </div>
+                  <div class="music-player">
+                    <div class="music-player-song">
+                      <div class="music-player-song__name"></div>
+                    </div>
+                      <div class="music-player__controls-sound">
+                        <div class="music-player__controls">
+                          <div class="music-player__play">
+                            <img class="music-player__img-play" src="assets/icons/play.png" alt="play">
+                            <img class="music-player__img-pause" src="assets/icons/pause.png" alt="pause">
+                          </div>
+                          <div class="music-player__progress-panel">
+                            <div class="music-player__progress-bar not-clickable">
+                              <div class="music-player__progress"></div>
+                            </div>
+                            <div class="music-player__timing">
+                              <span class="music-player__current"></span>
+                              <span class="music-player__length"></span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="music-player__volume-panel">
+                          <div class="music-player__volume">
+                            <img class="music-player__img-on" src="assets/icons/volumeon.png" alt="volume on">
+                            <img class="music-player__img-off" src="assets/icons/volumeoff.png" alt="volume off">
+                          </div>
+                          <div class="music-player__volume-bar">
+                            <div class="music-player__volume-line"></div>
+                          </div>
+                        </div>
+                      </div>
+                  </div>
+                </div>
+              </div>
+              <div class="button-next">
+                <div class="button-next__img"></div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="app-sections result">
+          <div class="result-body">
+            <div class="result-container">
+              <div class="result-container-image">
+                <img class="result-container-image__img" src="assets/decor/guy3.png" alt="dancing man">
+              </div>
+              <div class="result-container-message">
+                <p class="result-container__text"></p>
+                <div class="result-container__button"></div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="app-sections gallery">
+          <div class="projector-container">
+            <div class="projector-container__projector"></div>
+            <div class="projector-container__light white"></div>
+          </div>
+          <div class="gallery-body">
+            <div class="gallery-player">
+              <div class="gallery-player-panel">
+                <div class="gallery-player-picture">
+                  <div class="gallery-player-picture-container">
+                    <div class="gallery-player-picture-container__img"></div>
+                  </div>
+                </div>
+                <div class="gallery-player-progress-panel">
+                  <div class="gallery-player-track">
+                    <div class="gallery-player-track__name"></div>
+                  </div>
+                  <div class="gallery-player__controls">
+                    <div class="gallery-player__controls-container">
+                      <div class="gallery-player__play">
+                        <img class="gallery-player__img-play" src="assets/icons/play.png" alt="play">
+                        <img class="gallery-player__img-pause" src="assets/icons/pause.png" alt="pause">
+                      </div>
+                      <div class="gallery-player__progress-panel">
+                        <div class="gallery-player__progress-bar not-clickable">
+                          <div class="gallery-player__progress"></div>
+                        </div>
+                        <div class="gallery-player__timing">
+                          <span class="gallery-player__current"></span>
+                          <span class="gallery-player__length"></span>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="gallery-player__volume-panel">
+                      <div class="gallery-player__volume">
+                        <img class="gallery-player__img-on" src="assets/icons/volumeon.png" alt="volume on">
+                        <img class="gallery-player__img-off" src="assets/icons/volumeoff.png" alt="volume off">
+                      </div>
+                      <div class="gallery-player__volume-bar">
+                        <div class="gallery-player__volume-line"></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="gallery-player-music">
+              <div class="gallery-player-music-container">
+                <ol class="gallery-player-music-list"></ol>
+              </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="app-sections info">
+          <div class="animation-fall"></div>
+          <div class="info-body">
+              <div class="info-rules">
+                <div class="info-rules-content">
+                  <p class="info-rules-heading"></p>
+                  <ol class="info-rules-list">
+                    <li class="info-rules-list__item1"></li>
+                    <li class="info-rules-list__item2"></li>
+                    <li class="info-rules-list__item3"></li>
+                  </ol>
+                </div>
+              </div>
+          </div>
+        </section>
+      </div>
+    </main>
+    <footer class="footer">
+      <div class="footer-body">
+        <div class="github">
+          <a class="github__link" href="https://github.com/Tatiana-Shylovich" target="_blank"></a>
+        </div>
+        <p class="year"></p>
+        <div class="rss">
+          <a class="rss__link" href="https://rs.school/js/" target="_blank"></a>
+        </div>
+      </div>
+    </footer>
+    <div class="preloader">
+      <div class="app-theme">
+        <div class="app-theme-button button-main-theme"></div>
+        <div class="app-theme-button button-violet-theme"></div>
+      </div>
+    </div>
+  </div>
+  <script src="index.js" type="module"></script>
+</body>
+</html>
